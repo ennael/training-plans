@@ -1,6 +1,6 @@
 # FORMATION ANGULAR
 
-Formez-vous à la dernière version d'Angular, le framework JavaScript conçu par Google
+Formez-vous à la dernière version d'Angular, le framework web conçu par Google
 
 [Description](#description) |
 [Programme](#Le-Programme-de-la-Formation-Angular) |
@@ -34,59 +34,78 @@ La formation se composera d'une alternance de théorie et de pratique permettant
 
 ### Jour 1 : De la théorie aux 1ers composants Angular
 
-* Installation / introduction
-  * Philosophie du framework
-  * Installation minimale
-  * Ecosystème
-* TypeScript et ES2015
-  * Types
-  * Classes
-  * Modules
-  * Promesses
-  * Décorateurs
-  * Outils
-* Composants
-  * Définition
-  * Décorateur
-  * Vue
-  * Contrôleur
-  * Composants natifs
-  * Cycle de vie
+#### Installation / introduction
+
+* Philosophie du framework
+* Installation minimale
+* Ecosystème
+
+#### TypeScript et ES2015
+
+* Types
+* Classes
+* Modules
+* Promesses
+* Décorateurs
+* Outils
+
+#### Composants
+
+* Définition
+* Décorateur
+* Vue
+* Contrôleur
+* Composants natifs
+* Cycle de vie
 
 ### Jour 2 : Intégration de RxJS et des services associés
 
-* Reactive Programming
-  * Concept
-  * RxJS : Approche appronfondie d'un framework au coeur d'Angular
-* Services
-  * Créer un service
-  * Injection de service
-* Pipes
-  * Pipes natifs
-  * Écrire un pipe
-* Formulaires
-  * Contrôles
-  * Validateurs
-  * Observateurs
-  * ngModel
+#### Reactive Programming
+
+* Concept
+* RxJS : Approche appronfondie d'un framework au coeur d'Angular
+
+#### Services
+
+* Créer un service
+* Injection de service
+
+#### Pipes
+
+* Pipes natifs
+* Écrire un pipe
+
+#### Formulaires
+
+* Contrôles
+* Validateurs
+* Observateurs
+* ngModel
 
 ### Jour 3 : Amélioration, évolution et scalabilité
 
-* Service HTTP
-  * Communication avec une API
-  * Options
-  * De l'API REST à la vue avec le pipe async
-* Routeur
-  * Principe
-  * Composant de route
-  * Paramètres
-* Tests
-  * Karma et Jasmine
-  * Injection de dépendance
-* Concepts avancés
-  * PWA : gestion simplifiée des caches par Angular
-  * Injection de dépendance avancée
-  * Animations
+#### Service HTTP
+
+* Communication avec une API
+* Options
+* De l'API REST à la vue avec le pipe async
+
+#### Routeur
+
+* Principe
+* Composant de route
+* Paramètres
+
+#### Tests
+
+* Karma et Jasmine
+* Injection de dépendance
+
+#### Concepts avancés
+
+* PWA : gestion simplifiée des caches par Angular
+* Injection de dépendance avancée
+* Animations
 
 ## Le formateur
 

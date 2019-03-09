@@ -8,11 +8,11 @@ Venez vous perfectionner et maîtrisez les subtilités d'Angular lors de cette f
 
 ## DESCRIPTION
 
-**Angular** est un framework de développement d'applications web porté par Google. Sans doute le plus polyvalent et le plus complet des frameworks actuels, il offre une expérience de développement sans comparaison. Durant cette formation, nous plongerons dans les concepts avancés (zones, lazy loading, aot, i18n strategies, ...) d'Angular et découvrirons son écosystème (RxJS, @ngrx, material, PWA, ...). La formation Angular porte sur la dernière version majeure du framework de Google (Angular 7).
+**Angular** est un framework de développement d'applications web porté par Google. Sans doute le plus polyvalent et le plus complet des frameworks actuels, il offre une expérience de développement sans comparaison. Durant cette formation, nous plongerons dans les concepts avancés (zones, lazy loading, i18n strategies, ...) d'Angular et découvrirons son écosystème (RxJS, @ngrx, material, PWA, ...). La formation Angular porte sur la dernière version majeure du framework de Google (Angular 7).
 
 Cette formation est destinée à des développeur·se·s ayant déjà pratiqué le framework sur un projet et souhaitant comprendre le rôle des mécanismes internes du framework. L'objectif étant également de structurer le tout à travers un ensemble de bonnes pratiques, de retours d'expérience et de tips afin de rendre les applications réalisées maintenables et évolutives.
 
-La formation se composera d'une alternance de théorie et de pratique permettant à chacun des participants de produire une application Angular sur la base d'une API REST existante. L'application réalisée par chaque participant sur ces 3 jours étant opérationnelle et pourra servir de modèle pour leurs projets à venir.
+La formation se composera d'une alternance de théorie et de pratique permettant à chacun des participants de produire une application Angular sur la base d'une API REST existante. L'application réalisée par chaque participant sur ces 3 jours étant opérationnelle, elle pourra servir de modèle pour leurs projets à venir.
 
 ## Les objectifs
 
@@ -22,36 +22,36 @@ La formation se composera d'une alternance de théorie et de pratique permettant
 
 ## Pré-requis
 
-* Avoir eu un premier contact avec une application angular. Cela implique une bonne connaissance de TypeScript (et donc JavaScript) et une connaissance suffisante des concepts de base utilisés dans Angular : Components, Services, Forms, Routing, Observables, ...
+* Avoir eu un premier contact avec une application angular. Cela implique une bonne connaissance de TypeScript (et de JavaScript) et une connaissance suffisante des concepts de base utilisés dans Angular : Components, Services, Forms, Routing, Observables, ...
 * Ordinateur portable à apporter
 
-### Le programme de la formation Angular Avancé
+## Le programme de la formation Angular Avancé
 
 **Note :** un rappel / mise à niveau sur Angular est effectué au début de la formation : Component, Forms, Routing, Services, Observables, ...
 
-#### **Concepts avancés**
+### Concepts avancés
 
-##### JavaScript / Typescript
+#### JavaScript / Typescript
 
 * Tips & tricks
 * Pure functions
 * Arrays & Functional programming
 
-##### Functional Reactive Programming & **RxJS**
+#### Functional Reactive Programming & **RxJS**
 
-* Concept
+* Concepte
 * Principaux opérateurs
 * Opérateurs de combinaison
 * Gestion des exceptions
 * De l'API à la vue avec le pipe Async
 
-##### Zone & Change detection strategies
+#### Zone & Change detection strategies
 
 * Principe et utilité
 * État de la vue (component)
 * Propagation du changement
 
-##### PWA
+#### PWA
 
 * Théorie et contexte
 * Cache
@@ -60,46 +60,46 @@ La formation se composera d'une alternance de théorie et de pratique permettant
 * Service Workers
 * Push Notifications
 
-##### Lazy Loading & Module architecture
+#### Lazy Loading & Module architecture
 
 * Améliorer les performances de démarrage
 * Route integration : loadChildren
 * Preloading
 * Modules partagés
 
-##### Injection de dépendances
+#### Injection de dépendances
 
 * Principes de l'injection de dépendance
 * Injection hiérarchique
 * Inject anything : InjectionToken
 
-##### Route guards & resolve
+#### Route guards & resolve
 
 * Les différents types de Guards
 * CanActivate, CanActivateChild : protéger une route
 * CanDeactivate : sécuriser la sortie
 * Pre-fetching avec resolve
 
-#### **Écosystème**
+### Écosystème
 
-##### Angular Material
+#### Angular Material
 
 * Configuration et theming
 * Étude et mise en oeuvre de quelques composants
 * Material & CDK
 
-##### Le "State Management Pattern" avec **NgRx**
+#### Le "State Management Pattern" avec **NgRx**
 
 * Concept : Immutable data store
 * Store : Reducers & Actions par la pratique
 * Effects : Gestion des actions asynchrones
 * Entity : Performance et volumétrie
 
-##### Angular Universal
+#### Angular Universal
 
 * Introduction
 
-##### Internationalisation (aka I18N)
+#### Internationalisation (aka I18N)
 
 * Angular I18N standard
   * i18n marker
