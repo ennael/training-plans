@@ -8,11 +8,15 @@ Venez vous perfectionner et maîtrisez les subtilités d'Angular lors de cette f
 
 ## DESCRIPTION
 
-**Angular** est un framework de développement d'applications web porté par Google. Sans doute le plus polyvalent et le plus complet des frameworks actuels, il offre une expérience de développement sans comparaison. Durant cette formation, nous plongerons dans les concepts avancés (zones, lazy loading, i18n strategies, ...) d'Angular et découvrirons son écosystème (RxJS, @ngrx, material, PWA, ...). La formation Angular porte sur la dernière version majeure du framework de Google (Angular 7).
+**Angular** est un framework de développement d'applications web porté par Google. Sans doute le plus polyvalent et le plus complet des frameworks actuels, il offre une expérience de développement sans comparaison. 
 
-Cette formation est destinée à des développeur·se·s ayant déjà pratiqué le framework sur un projet et souhaitant comprendre le rôle des mécanismes internes du framework. L'objectif étant également de structurer le tout à travers un ensemble de bonnes pratiques, de retours d'expérience et de tips afin de rendre les applications réalisées maintenables et évolutives.
+Durant cette formation Angular Avancé, nous plongerons dans les concepts avancés (zones, lazy loading, i18n strategies, ...) d'Angular et découvrirons son écosystème (RxJS, @ngrx, material, PWA, ...). Cette formation porte sur la dernière version majeure du framework de Google (Angular 7).
 
-La formation se composera d'une alternance de théorie et de pratique permettant à chacun des participants de produire une application Angular sur la base d'une API REST existante. L'application réalisée par chaque participant sur ces 3 jours étant opérationnelle, elle pourra servir de modèle pour leurs projets à venir.
+Cette formation Angular Avancé est destinée à des **développeur·se·s ayant déjà pratiqué le framework sur un projet** et souhaitant comprendre le rôle des mécanismes internes du framework. L'objectif est également de structurer le tout à travers un ensemble de bonnes pratiques, de retours d'expérience et de tips afin de rendre les applications réalisées maintenables et évolutives.
+
+Si vous débutez avec le framework Angular, jetez un oeil à notre [formation Angular](https://www.humancoders.com/formations/angular) !
+
+La formation, orientée pratique, permettra à chacun des participant·e·s de produire une application Angular sur la base d'une API REST existante. L'application réalisée étant opérationnelle, elle pourra servir de modèle pour leurs projets à venir.
 
 ## Les objectifs
 
